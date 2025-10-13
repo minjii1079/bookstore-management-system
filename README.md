@@ -1,12 +1,12 @@
 # Bookstore Management System
 
-A comprehensive bookstore management application built with Java and JavaFX, featuring separate interfaces for store owners and customers with login authentication.
+A client-side bookstore management application built with Java and JavaFX, featuring separate interfaces for store owners and customers with login authentication.
 
 ## Download
 
-**[Download the latest release](https://github.com/minjii1079/bookstore-management-system/releases/latest)**
+**[Latest release](https://github.com/minjii1079/bookstore-management-system/releases/latest)**
 
-Extract the zip file and run `BookstoreManagementSystem.exe`.
+Extract the zip and run `BookstoreManagementSystem.exe`.
 
 ## Features
 
@@ -21,11 +21,11 @@ Extract the zip file and run `BookstoreManagementSystem.exe`.
 - **Tiered Membership**: Progress from Silver to Gold tier for exclusive benefits
 - **Secure Authentication**: Login system to protect customer accounts
 
-## Technologies Used
+## Tech Used
 
-- **Java**: Core programming language
+- **Java**: Main programming language
 - **JavaFX**: GUI framework for the user interface
-- **Java I/O**: File handling and data persistance
+- **Java I/O**: File handling and persistance
 
 ## Screenshots
 
@@ -59,11 +59,8 @@ Extract the zip file and run `BookstoreManagementSystem.exe`.
 - Track your membership tier and points balance
 
 ## Team
-This project was developed as a collaborative effort by a team of 3 developers for the final project of Software Systems (COE318).
+This project was developed as a collaborative effort by a team of 3 developers for the final project of Object-Oriented Engineering Analysis and Design (COE528).
 
-## Installation & Setup Requirements
-
-### Dependencies
+## Dependencies
 - Java Development Kit (JDK) 17
 - JavaFX 17
-- An IDE (NetBeans recommended)
